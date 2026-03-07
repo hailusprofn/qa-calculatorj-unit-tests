@@ -1,2 +1,2 @@
-## Java based calculator project unit testing 
-A Software Quality Assurance Java Based Unit Test Project
+## Software Quality project 
+Unit test for a calculator project built using java
